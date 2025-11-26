@@ -1,5 +1,5 @@
 
- [ Flights](https://github.com/kewal-ballte/Flights-powerbi-daashboards/blob/main/flight%20logo.png)
+ [Flight](https://github.com/kewal-ballte/Flights-powerbi-daashboards/blob/main/flight%20logo.png)
  
  # Flights-powerbi-daashboards
 This repository contains an interactive Power BI Dashboard designed to analyze key metrics related to flight operations, delays, aircraft types, origins–destinations, and airline performance.
@@ -139,9 +139,6 @@ Shows long-term flight frequency trends.
 
 ## Airline & Aircraft Interaction Dashboard
 [!Airline & Aircraft Interaction Dashboard](https://github.com/kewal-ballte/Flights-powerbi-daashboards/blob/main/Airline%20%26%20Aircraft%20Interaction%20Dashboard.png)
-
-
-
 
 
 Airline Slicer
