@@ -138,8 +138,7 @@ Shows long-term flight frequency trends.
 ![Origin & Destination Dashboard](https://github.com/kewal-ballte/Flights-powerbi-daashboards/blob/main/Origin%20%26%20Destination%20Dashboard.png)
 
 ## Airline & Aircraft Interaction Dashboard
-[!Airline & Aircraft Interaction Dashboard](https://github.com/kewal-ballte/Flights-powerbi-daashboards/blob/main/Airline%20%26%20Aircraft%20Interaction%20Dashboard.png)
+![Airline & Aircraft Interaction Dashboard](https://github.com/kewal-ballte/Flights-powerbi-daashboards/blob/main/Airline%20%26%20Aircraft%20Interaction%20Dashboard.png)
 
 
-Airline Slicer
-Enables filtering data for individual airlines.
+
